@@ -1,0 +1,92 @@
+[
+	{
+		"id": 1,
+		"city": "Lucknow",
+		"doctor": "Dr. Archana Kumari",
+		"speciality": "Physiotherapy & Rehabilitation"
+	},
+	{
+		"id": 2,
+		"city": "Lucknow",
+		"doctor": "Dr. Uday Bharadwaj",
+		"speciality": "Physiotherapy & Rehabilitation"
+	},
+	{
+		"id": 3,
+		"city": "Lucknow",
+		"doctor": "Dr. Prafull Gupta",
+		"speciality": "Physiotherapy & Rehabilitation"
+	},
+	{
+		"id": 4,
+		"city": "Delhi",
+		"doctor": "Dr. Pankaj Kumar",
+		"speciality": "Physiotherapy & Rehabilitation"
+	},
+	{
+		"id": 5,
+		"city": "Delhi",
+		"doctor": "Dr. Bhavesh Singh",
+		"speciality": "Physiotherapy & Rehabilitation"
+	},
+	{
+		"id": 6,
+		"city": "Delhi",
+		"doctor": "Dr. Riya Bisnoi",
+		"speciality": "Physiotherapy & Rehabilitation"
+	},
+	{
+		"id": 7,
+		"city": "Hyderabad",
+		"doctor": "Dr. Rohsni Diwedi",
+		"speciality": "Physiotherapy & Rehabilitation"
+	},
+	{
+		"id": 8,
+		"city": "Hyderabad",
+		"doctor": "Dr. Vinay Singh",
+		"speciality": "Physiotherapy & Rehabilitation"
+	},
+	{
+		"id": 9,
+		"city": "Hyderabad",
+		"doctor": "Dr. Sakshi Gautam",
+		"speciality": "Physiotherapy & Rehabilitation"
+	},
+	{
+		"id": 10,
+		"city": "Bangalore",
+		"doctor": "Dr. Rahul Sharma",
+		"speciality": "Physiotherapy & Rehabilitation"
+	},
+	{
+		"id": 11,
+		"city": "Bangalore",
+		"doctor": "Dr. Abhishek Verma",
+		"speciality": "Physiotherapy & Rehabilitation"
+	},
+	{
+		"id": 12,
+		"city": "Bangalore",
+		"doctor": "Dr. Diya Upadhaya",
+		"speciality": "Physiotherapy & Rehabilitation"
+	},
+	{
+		"id": 13,
+		"city": "Mumbai",
+		"doctor": "Dr. Priya Sharma",
+		"speciality": "Physiotherapy & Rehabilitation"
+	},
+	{
+		"id": 14,
+		"city": "Mumbai",
+		"doctor": "Dr. Brijesh Pathak",
+		"speciality": "Physiotherapy & Rehabilitation"
+	},
+	{
+		"id": 15,
+		"city": "Mumbai",
+		"doctor": "Dr. Ananya Singh",
+		"speciality": "Physiotherapy & Rehabilitation"
+	}
+]
